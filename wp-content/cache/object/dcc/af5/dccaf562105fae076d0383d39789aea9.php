@@ -1,0 +1,1 @@
+î¾c<?php exit; ?>a:1:{s:7:"content";a:4:{s:17:"_vc_post_settings";a:1:{i:0;s:30:"a:1:{s:10:"vc_grid_id";a:0:{}}";}s:20:"_elementor_edit_mode";a:1:{i:0;s:7:"builder";}s:24:"_elementor_template_type";a:1:{i:0;s:7:"wp-page";}s:18:"_elementor_version";a:1:{i:0;s:5:"2.9.6";}}}

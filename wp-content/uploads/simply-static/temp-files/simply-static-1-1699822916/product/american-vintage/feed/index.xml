@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	التعليقات على: American Vintage	</title>
+	<atom:link href="http://localhost/wordpress_store/product/american-vintage/feed/?simply_static_page=25667" rel="self" type="application/rss+xml" />
+	<link>https://emadrassm.github.io/binali.com/product/american-vintage/</link>
+	<description></description>
+	<lastBuildDate>Mon, 18 Sep 2023 19:24:39 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<item>
+		<title>
+		بواسطة: Rose Tyler		</title>
+		<link>https://emadrassm.github.io/binali.com/product/american-vintage/#comment-8</link>
+
+		<dc:creator><![CDATA[Rose Tyler]]></dc:creator>
+		<pubDate>Thu, 23 Aug 2018 07:55:03 +0000</pubDate>
+		<guid isPermaLink="false">https://xstore.8theme.com/?post_type=product&#038;p=370#comment-8</guid>
+
+					<description><![CDATA[Etiam nulla nunc, aliquet vel metus nec, scelerisque tempus enim. Sed eget blandit lectus.]]></description>
+			<content:encoded><![CDATA[<p>Etiam nulla nunc, aliquet vel metus nec, scelerisque tempus enim. Sed eget blandit lectus.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

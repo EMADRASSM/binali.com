@@ -1,0 +1,1 @@
+î¾c<?php exit; ?>a:1:{s:7:"content";a:7:{s:10:"_edit_lock";a:1:{i:0;s:12:"1672693821:1";}s:10:"_edit_last";a:1:{i:0;s:1:"1";}s:17:"_wp_page_template";a:1:{i:0;s:7:"default";}s:17:"_wpb_vc_js_status";a:1:{i:0;s:4:"true";}s:15:"_et_page_banner";a:1:{i:0;s:1:"0";}s:15:"_et_page_slider";a:1:{i:0;s:9:"no_slider";}s:15:"_et_widget_area";a:1:{i:0;s:1:"0";}}}

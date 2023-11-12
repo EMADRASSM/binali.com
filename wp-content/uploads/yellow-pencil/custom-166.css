@@ -1,0 +1,192 @@
+/*
+
+    The following CSS codes are created by the YellowPencil plugin.
+    https://yellowpencil.waspthemes.com/
+
+
+    T A B L E   O F   C O N T E N T S
+    ........................................................................
+
+    01. "Product Style" Vc_grid_item
+    02. "Block Perfumes" Staticblocks
+    03. "Shop" Page
+
+*/
+
+
+
+/*-----------------------------------------------*/
+/*  "Product Style" Vc_grid_item                 */
+/*-----------------------------------------------*/
+body.postid-7306 .vc_custom_1601027885668 .product .product-image-wrapper{
+	background-size:auto;
+	background-image:url("http://localhost:8080/wordpress_store/wp-content/uploads/2022/12/banner_image1646120469-1.jpg");
+	background-repeat:no-repeat;
+	border-style:solid;
+	border-width:0px;
+}
+
+body.postid-7306 .vc_custom_1601027885668 > .mpc-column > .vc_column-inner > .wpb_wrapper > .swiper-entry .wp-element-button{
+	visibility:visible;
+	display:none;
+}
+
+body.postid-7306 .page-wrapper .vc_custom_1601027885668 > .mpc-column > .vc_column-inner > .wpb_wrapper{
+	position:relative;
+	left:-1px;
+}
+
+body.postid-7306 .vc_custom_1601027885668 > .mpc-column > .vc_column-inner > .wpb_wrapper > .swiper-entry .product:hover .wp-element-button{
+	display: inline-block;
+}
+
+
+
+/*-----------------------------------------------*/
+/*  "Block Perfumes" Staticblocks                */
+/*-----------------------------------------------*/
+body.postid-7412 .wpb-content-wrapper ul .et-column-title{
+	text-align:right;
+	direction:rtl;
+	line-height:1.5em;
+	font-size:17px;
+	font-weight:400;
+	font-family:'Lemonada', display;
+	word-spacing:1px;
+	padding-right:20px;
+	border-right-color:#e1e1e1;
+	border-right-width:1px;
+	border-right-style:solid;
+}
+
+body.postid-7412 .wpb-content-wrapper .mpc-column .vc_column-inner{
+	display:inline-block;
+	-webkit-transform:translatex(0px) translatey(0px) !important;	-ms-transform:translatex(0px) translatey(0px) !important;	transform:translatex(0px) translatey(0px) !important;
+}
+
+body.postid-7412 .wpb-content-wrapper ul img{
+	background-repeat:repeat;
+	display:inline-block;
+	min-height:168px;
+}
+
+body.postid-7412 .page-wrapper .wpb-content-wrapper .mpc-row{
+	-webkit-transform:translatex(0px) translatey(0px);	-ms-transform:translatex(0px) translatey(0px);	transform:translatex(0px) translatey(0px);
+}
+
+
+
+/*-----------------------------------------------*/
+/*  "Shop" Page                                  */
+/*-----------------------------------------------*/
+body.post-type-archive-product .slide-item .product .product-details .button, body.post-type-archive-product .clearfix .product .button{
+	background: transparent;
+	border: 0;
+	outline: 0;
+	font-size: 13px;
+	cursor: pointer;
+	touch-action: manipulation;
+	user-select: none;
+
+	visibility: hidden;
+}
+
+body.post-type-archive-product .slide-item .product:hover .button, body.post-type-archive-product .clearfix .product:hover .button{
+	visibility: visible;
+	border: 1px solid #000000;
+	-webkit-box-sizing: border-box;	box-sizing: border-box;
+	border-radius: 2px;
+	background: transparent;
+}
+
+body.post-type-archive-product .slide-item .product .product-details .button:hover, body.post-type-archive-product .clearfix .product .button:hover{
+	background: #9e510d!important;
+	border: 1px solid #9e510d;
+	-webkit-box-sizing: border-box;	box-sizing: border-box;
+	transition: all .5s;
+	color: #fff;
+	cursor: pointer;
+}
+
+body.post-type-archive-product .slide-item .product, body.post-type-archive-product .clearfix .product{
+	width: 100%;
+	max-width: 230px;
+	min-height: 350px;
+	height: 390px;
+}
+
+body.post-type-archive-product .slide-item .product:hover, body.post-type-archive-product .clearfix .product:hover{
+	-webkit-box-shadow: rgb(0 0 0 / 7%) 0px 5px 6px, rgb(0 0 0 / 12%) 0px 8px 5px, rgb(0 0 0 / 4%) 0px 4px 7px, rgb(0 0 0 / 0%) 0px 5px 0px, rgb(0 0 0 / 9%) 0px -3px 5px;	box-shadow: rgb(0 0 0 / 7%) 0px 5px 6px, rgb(0 0 0 / 12%) 0px 8px 5px, rgb(0 0 0 / 4%) 0px 4px 7px, rgb(0 0 0 / 0%) 0px 5px 0px, rgb(0 0 0 / 9%) 0px -3px 5px;
+}
+
+body.post-type-archive-product .main-products-loop .clearfix .product{
+	padding-left: 0px;
+	padding-right: 0px;
+	margin: auto;
+}
+
+body.post-type-archive-product .main-products-loop .filter-wrap .filter-content{
+	padding-bottom:15px;
+	padding-top:15px;
+}
+
+body.post-type-archive-product .vc_custom_1673039165077 .title h1{
+	font-weight:600 !important;
+	font-family:'Droid Arabic Kufi Regular';
+	font-size:28px;
+}
+
+body.post-type-archive-product #menu-mymainmenu .menu-item .nav-sublist-dropdown{
+	-webkit-box-shadow: rgb(244, 245, 245) 0px 3px 0px 0px;	box-shadow: rgb(244, 245, 245) 0px 3px 0px 0px;
+}
+
+body.post-type-archive-product #menu-mymainmenu .menu-item .block-container{
+	padding: 10px;
+	overflow: hidden;
+}
+
+body.post-type-archive-product #menu-mymainmenu .et-column-title{
+	padding: 10px;
+	-webkit-transition-duration:0.3s;	transition-duration:0.3s;
+	-webkit-transition-timing-function:ease-in-out;	transition-timing-function:ease-in-out;
+}
+
+body.post-type-archive-product #menu-mymainmenu .et-column-title:hover{
+	-webkit-transform: translate3d(-8px,0,0);	-ms-transform: translate3d(-8px,0,0);	transform: translate3d(-8px,0,0);
+	-webkit-transition-duration:0.3s;	transition-duration:0.3s;
+	-webkit-transition-timing-function:ease-in-out;	transition-timing-function:ease-in-out;
+}
+
+body.post-type-archive-product #menu-mymainmenu .et-column-title:hover h2{
+	text-decoration: underline;
+	text-decoration-thickness: 1px;
+}
+
+@media (max-width:992px){
+
+}
+
+@media (min-width:993px){
+
+}
+
+body.post-type-archive-product .template-container .template-content .page-wrapper .products-hover-only-icons .sidebar-position-off_canvas .row .main-products-loop .row-count-4 .clearfix{
+
+	-ms-grid-columns: 19.61fr 19.61fr 19.61fr 19.61fr !important;	grid-template-columns: 19.61fr 19.61fr 19.61fr 19.61fr !important;
+
+	-ms-grid-rows: 1fr 1fr 1fr 1fr 1fr !important;	grid-template-rows: 1fr 1fr 1fr 1fr 1fr !important;
+}
+
+body.post-type-archive-product .main-products-loop .clearfix{
+	display: -ms-grid;
+	display:-ms-grid;	display:grid;
+
+	-ms-grid-columns: 1fr 1fr 1fr 1fr;	grid-template-columns: 1fr 1fr 1fr 1fr;
+	margin: 30px 0;
+	-webkit-column-gap: 20px;	column-gap: 20px;
+	-webkit-row-gap: 40px;	row-gap: 40px;
+}
+
+body.post-type-archive-product .main-products-loop .clearfix:before, body.post-type-archive-product .main-products-loop .clearfix:after{
+	content: none;
+}

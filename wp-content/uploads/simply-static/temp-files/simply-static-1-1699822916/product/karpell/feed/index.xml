@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	التعليقات على: Karpell	</title>
+	<atom:link href="http://localhost/wordpress_store/product/karpell/feed/?simply_static_page=25355" rel="self" type="application/rss+xml" />
+	<link>https://emadrassm.github.io/binali.com/product/karpell/</link>
+	<description></description>
+	<lastBuildDate>Wed, 20 Sep 2023 16:24:42 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<item>
+		<title>
+		بواسطة: Olga Barlow		</title>
+		<link>https://emadrassm.github.io/binali.com/product/karpell/#comment-12</link>
+
+		<dc:creator><![CDATA[Olga Barlow]]></dc:creator>
+		<pubDate>Fri, 21 Sep 2018 08:57:47 +0000</pubDate>
+		<guid isPermaLink="false">https://xstore.8theme.com/?post_type=product&#038;p=4930#comment-12</guid>
+
+					<description><![CDATA[Etiam nulla nunc, aliquet vel metus nec, scelerisque tempus enim. Sed eget blandit lectus. Donec facilisis ornare turpis id pretium.]]></description>
+			<content:encoded><![CDATA[<p>Etiam nulla nunc, aliquet vel metus nec, scelerisque tempus enim. Sed eget blandit lectus. Donec facilisis ornare turpis id pretium.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

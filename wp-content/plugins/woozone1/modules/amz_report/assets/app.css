@@ -1,0 +1,13 @@
+#WooZone-AMZReport-wrapper {
+  padding: 20px;
+  background: #fff;
+  border-radius: 5px;
+  font-family: 'Roboto', sans-serif;
+  float: left;
+  width: 100%; }
+  #WooZone-AMZReport-wrapper .WooZone-AMZReport-chart {
+    border: 2px solid red;
+  }
+
+
+/*# sourceMappingURL=app.css.map*/
